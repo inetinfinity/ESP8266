@@ -3,17 +3,19 @@
 ## shot press button and long press button
 
 ### structure
-! text in orange
-void checkButtonStatus() {
+<div class="text-orange mb-2">
+  void checkButtonStatus() {
 
-  if () {
+    if () {
 
-    // this for Long press
+      // this for Long press
 
-  } else {
+    } else {
 
-    // this for shot press
-    
+      // this for shot press
+
+    }
+
   }
+</div>
 
-}

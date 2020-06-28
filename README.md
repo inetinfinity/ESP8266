@@ -5,10 +5,15 @@
 ### structure
 
 void checkButtonStatus() {
+
   if () {
+
     // this for Long press
+
   } else {
+
     // this for shot press
+    
   }
 
 }

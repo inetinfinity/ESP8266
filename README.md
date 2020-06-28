@@ -3,7 +3,7 @@
 ## shot press button and long press button
 
 ### structure
-
+! text in orange
 void checkButtonStatus() {
 
   if () {

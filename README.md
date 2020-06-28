@@ -3,8 +3,8 @@
 ## shot press button and long press button
 
 ### structure
-<div class="text-orange mb-2">
-  .text-orange on white
+
+<div class="text-blue mb-2">
 void checkButtonStatus() {
 
   if () {
@@ -20,3 +20,4 @@ void checkButtonStatus() {
 }
 </div>
 
+&#x1F534;&#x1F534;&#x1F534;

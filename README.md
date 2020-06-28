@@ -4,18 +4,19 @@
 
 ### structure
 <div class="text-orange mb-2">
-  void checkButtonStatus() {
+  .text-orange on white
+void checkButtonStatus() {
 
-    if () {
+  if () {
 
-      // this for Long press
+    // this for Long press
 
-    } else {
+  } else {
 
-      // this for shot press
-
-    }
+    // this for shot press
 
   }
+
+}
 </div>
 
